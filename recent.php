@@ -1,7 +1,7 @@
 <?php
 function info($recent) {
   
-  $db_connection = new mysqli('stardock.cs.virginia.edu', 'cs4720mc2cy', 'elchino419', 'cs4720mc2cy');
+  $db_connection = new mysqli('stardock.cs.virginia.edu', 'cs4720mc2cy', 'beet', 'cs4720mc2cy');
   if (mysqli_connect_errno()) {
       echo "Failed connection!";
   }
