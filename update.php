@@ -7,7 +7,7 @@
 <?php
 $db_host = 'stardock.cs.virginia.edu';
     $db_username = 'cs4720mc2cy';
-    $db_pass = 'elchino419';
+    $db_pass = 'beet';
     $db_name = 'cs4720mc2cy';
     
  
